@@ -17,7 +17,8 @@ Description of Project 1/3
 **Bold** and _Italic_ and `Code` text
 
 [Read More - Link to project within Github](url)
-![Image](https://imgur.com/a/7DzFAhA)
+![Image](https://www.paymentsjournal.com/wp-content/uploads/2019/02/hack-3671982_1920-1.jpg)
+
 For more details see GitHub Flavored Markdown.
 
 Jekyll Themes
