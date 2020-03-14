@@ -14,12 +14,11 @@ Welcome to Lara Clasen's data project portfolio.
 
 Description of Project 1/3
 
-**Bold** and _Italic_ and `Code` text
-
 [Read More - Link to project within Github](url)
-![Image](https://www.paymentsjournal.com/wp-content/uploads/2019/02/hack-3671982_1920-1.jpg)
 <img src="https://www.paymentsjournal.com/wp-content/uploads/2019/02/hack-3671982_1920-1.jpg" width="250" height="168" title="Credit Card Fraud">
 
+
+**Bold** and _Italic_ and `Code` text
 For more details see GitHub Flavored Markdown.
 
 Jekyll Themes
