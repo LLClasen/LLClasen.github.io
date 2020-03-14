@@ -18,6 +18,7 @@ Description of Project 1/3
 
 [Read More - Link to project within Github](url)
 ![Image](https://www.paymentsjournal.com/wp-content/uploads/2019/02/hack-3671982_1920-1.jpg)
+<img src="https://www.paymentsjournal.com/wp-content/uploads/2019/02/hack-3671982_1920-1.jpg" width="100" height="100" title="Github Logo">
 
 For more details see GitHub Flavored Markdown.
 
