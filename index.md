@@ -7,7 +7,7 @@ Welcome to Lara Clasen's data project portfolio.
 # Portfolio Projects
 ## Weather API
 
-[Project README](https://github.com/LLClasen/LLClasen.github.io/blob/master/README%20Weather%20API%20Project.docx)
+[Project README](https://github.com/LLClasen/LLClasen.github.io/blob/master/README%20Weather%20Project.txt)
 
 [Weather API Code](https://github.com/LLClasen/LLClasen.github.io/blob/master/Portfolio%20Project%20-%20Weather%20API.ipynb)<br/>
 <img src="https://openweathermap.org/themes/openweathermap/assets/img/new-history-forecast-bulk.png" width="250" height="168" title="Weather">
