@@ -5,10 +5,16 @@ layout: default
 Welcome to Lara Clasen's data project portfolio.
 
 # Portfolio Projects
-## Weather API Program
+### Weather API Program
 This application interacts with a webservice in order to obtain data. The program prompts the user for their city or zip code and requests weather forecast data from openweathermap.org. The program displays the weather information in a readable format to the user.
 
 [Weather API Project](https://github.com/LLClasen/WeatherAPI)<br/>
+<img src="https://openweathermap.org/themes/openweathermap/assets/img/new-history-forecast-bulk.png" width="250" height="168" title="Weather">
+
+### CDC Project
+This ...
+
+[CDC Project](https://github.com/LLClasen/WeatherAPI)<br/>
 <img src="https://openweathermap.org/themes/openweathermap/assets/img/new-history-forecast-bulk.png" width="250" height="168" title="Weather">
 
 # Final Project 1/3
