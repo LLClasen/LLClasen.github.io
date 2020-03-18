@@ -36,6 +36,12 @@ This project reviews United States Censes income data as it applies to related c
 [Income Characteristics Project](https://github.com/LLClasen/Income-Characteristics-Project)<br/>
 <img src="https://thelendersnetwork.com/wp-content/uploads/2017/11/what-is-annual-income.jpg" width="250" height="168" title="IMDB">
 
+### School Data Project
+This project analyzes data from the State of Minnesota database and tells us employment information of graduate-level students following their programs.
+
+[School Data Project](https://github.com/LLClasen/School-Data)<br/>
+<img src="https://www.rfstaples.ca/wp-content/uploads/sites/15/2018/03/grad-640x475.png" width="250" height="168" title="Grad School">
+
 
 # Final Project 1/3
 ## Detecting Credit Card Fraud
