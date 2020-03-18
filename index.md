@@ -12,9 +12,9 @@ Welcome to Lara Clasen's data project portfolio.
 - R Programming Language
 - Machine-Learning Algorithms
 
-Description of Project 1/3<br/>
+Description of Project 1/3
 
-[Project 1 Proposal](https://github.com/LLClasen/LLClasen.github.io/blob/master/DSC%20680%20Project%201%20Proposal.docx)
+[Project 1 Proposal](https://github.com/LLClasen/LLClasen.github.io/blob/master/DSC%20680%20Project%201%20Proposal.docx)<br/>
 <img src="https://www.paymentsjournal.com/wp-content/uploads/2019/02/hack-3671982_1920-1.jpg" width="250" height="168" title="Credit Card Fraud">
 
 
