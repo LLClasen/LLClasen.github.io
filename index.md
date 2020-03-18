@@ -30,6 +30,12 @@ This project analyzes a data set called “Cars” which provides information ab
 [Cars Project](https://github.com/LLClasen/Cars-Data-Set)<br/>
 <img src="https://www.carconnectioninc.com/images/styles/s59r_fxslide1.jpg" width="250" height="168" title="IMDB">
 
+### Income Characteristics Project
+This project reviews United States Censes income data as it applies to related characteristics.
+
+[Income Characteristics Project](https://github.com/LLClasen/Income-Characteristics-Project)<br/>
+<img src="https://thelendersnetwork.com/wp-content/uploads/2017/11/what-is-annual-income.jpg" width="250" height="168" title="IMDB">
+
 
 # Final Project 1/3
 ## Detecting Credit Card Fraud
