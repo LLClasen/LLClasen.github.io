@@ -24,6 +24,12 @@ This is a script to obtain data points for movies in HTML format from the IMDB w
 [IMDB Project](https://github.com/LLClasen/IMDB-Project)<br/>
 <img src="https://pmcvariety.files.wordpress.com/2017/02/imdb1.png" width="250" height="168" title="IMDB">
 
+### Cars Project
+This project analyzes a data set called “Cars” which provides information about different vehicles and several of their characteristics.
+
+[Cars Project](https://github.com/LLClasen/Cars-Data-Set)<br/>
+<img src="https://www.carconnectioninc.com/images/styles/s59r_fxslide1.jpg" width="250" height="168" title="IMDB">
+
 
 # Final Project 1/3
 ## Detecting Credit Card Fraud
