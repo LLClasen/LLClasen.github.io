@@ -12,10 +12,10 @@ This application interacts with a webservice in order to obtain data. The progra
 <img src="https://openweathermap.org/themes/openweathermap/assets/img/new-history-forecast-bulk.png" width="250" height="168" title="Weather">
 
 ### CDC Project
-This ...
+This project is an analysis of Center for Disease Control data about Death rates and life expectancy at birth.
 
-[CDC Project](https://github.com/LLClasen/WeatherAPI)<br/>
-<img src="https://openweathermap.org/themes/openweathermap/assets/img/new-history-forecast-bulk.png" width="250" height="168" title="Weather">
+[CDC Project](https://github.com/LLClasen/CDC-Project)<br/>
+<img src="https://files.hiv.gov/s3fs-public/cdc-logo-fullframe-internal.jpg" width="250" height="168" title="CDC">
 
 # Final Project 1/3
 ## Detecting Credit Card Fraud
