@@ -17,6 +17,14 @@ This project is an analysis of Center for Disease Control data about Death rates
 [CDC Project](https://github.com/LLClasen/CDC-Project)<br/>
 <img src="https://files.hiv.gov/s3fs-public/cdc-logo-fullframe-internal.jpg" width="250" height="168" title="CDC">
 
+
+### IMDB Project
+This is a script to obtain data points for movies in HTML format from the IMDB website.
+
+[IMDB Project](https://github.com/LLClasen/IMDB-Project)<br/>
+<img src="https://pmcvariety.files.wordpress.com/2017/02/imdb1.png" width="250" height="168" title="IMDB">
+
+
 # Final Project 1/3
 ## Detecting Credit Card Fraud
 ### What was used:
