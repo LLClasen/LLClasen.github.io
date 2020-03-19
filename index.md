@@ -42,6 +42,13 @@ This project analyzes data from the State of Minnesota database and tells us emp
 [School Data Project](https://github.com/LLClasen/School-Data)<br/>
 <img src="https://www.rfstaples.ca/wp-content/uploads/sites/15/2018/03/grad-640x475.png" width="250" height="168" title="Grad School">
 
+### Hotel Recommendations Project
+This project builds a model to predict which hotel cluster or group that a user will select based upon their search characteristics.
+
+[Hotel Recommendations Project](https://github.com/LLClasen/Hotel-Recommendations)<br/>
+<img src="https://www.ahstatic.com/photos/9399_ho_00_p_1024x768.jpg" width="250" height="168" title="Hotels">
+
+
 
 # Final Project 1/3
 ## Detecting Credit Card Fraud
