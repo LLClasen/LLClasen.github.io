@@ -48,6 +48,12 @@ This project builds a model to predict which hotel cluster or group that a user 
 [Hotel Recommendations Project](https://github.com/LLClasen/Hotel-Recommendations)<br/>
 <img src="https://www.ahstatic.com/photos/9399_ho_00_p_1024x768.jpg" width="250" height="168" title="Hotels">
 
+### Airline Safety Project
+This project explores commercial airline data to address recent concerns in airline safety using exploratory data analysis and visualization.
+
+[Airline Safety Project](https://github.com/LLClasen/Airline-Safety)<br/>
+<img src="https://www.airlineratings.com/wp-content/uploads/uploads/airbus-a350-xwb-4k-passenger-plane-qantas-airlines-airbus-a350.jpg" width="250" height="168" title="Airlines">
+
 
 
 # Final Project 1/3
