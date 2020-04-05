@@ -58,15 +58,21 @@ This project explores commercial airline data to address recent concerns in airl
 
 # Final Project 1/3
 ## Detecting Credit Card Fraud
+<img src="https://www.paymentsjournal.com/wp-content/uploads/2019/02/hack-3671982_1920-1.jpg" width="250" height="168" title="Credit Card Fraud">
 ### What was used:
 
-- R Programming Language
+- Python Programming Language
 - Machine-Learning Algorithms
 
-Description of Project 1/3
+This is a compilation of materials for my first project in the course DSC 680 (Applied Data Science) at Bellevue University. This project aims to build a machine learning model that has the capability to predict, with great accuracy, when a credit card transaction presents as being fraudulent. Beginning with exploratory data analysis, I use machine learning algorithms to understand and work through these data. By exploring the data set and understanding trends, I build and train a model to predict which transactions are fraudulent, ultimately aiming to test and select the most accurate model for this set of data.
 
-[Project 1 Proposal](https://github.com/LLClasen/LLClasen.github.io/blob/master/DSC%20680%20Project%201%20Proposal.docx)<br/>
-<img src="https://www.paymentsjournal.com/wp-content/uploads/2019/02/hack-3671982_1920-1.jpg" width="250" height="168" title="Credit Card Fraud">
 
+[Project Proposal](https://github.com/LLClasen/LLClasen.github.io/blob/master/DSC%20680%20Project%201%20Proposal.docx)<br/>
+
+[Project Paper](https://github.com/LLClasen/Credit-Card-Fraud/blob/master/DSC%20680%20Project%201%20-%20Final.pdf)<br/>
+
+[Project Code](https://github.com/LLClasen/Credit-Card-Fraud/blob/master/DSC%20680%20Project%201%20Code.ipynb)<br/>
+
+[Project Video Presentation](https://github.com/LLClasen/LLClasen.github.io/blob/master/DSC%20680%20Project%201%20Proposal.docx)<br/>
 
 ---
