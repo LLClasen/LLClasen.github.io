@@ -74,6 +74,6 @@ This is a compilation of materials for my first project in the course DSC 680 (A
 
 [Project Code](https://github.com/LLClasen/Credit-Card-Fraud/blob/master/DSC%20680%20Project%201%20Code.ipynb)<br/>
 
-[Project Video Presentation](https://github.com/LLClasen/LLClasen.github.io/blob/master/DSC%20680%20Project%201%20Proposal.docx)<br/>
+[Project Video Presentation](https://github.com/LLClasen/Credit-Card-Fraud/blob/master/DSC%20680%20Project%201%20Video%20Link.docx)<br/>
 
 ---
