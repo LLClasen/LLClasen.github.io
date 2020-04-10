@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Welcome to Lara Clasen's data project portfolio.
-
 About Me:
 
 > Lara Clasen
