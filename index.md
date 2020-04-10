@@ -80,7 +80,7 @@ This is a compilation of materials for my first project in the course DSC 680 (A
 
 # Final Project 2/3
 ## Restaurant Recommender System
-<img src="https://stmedia.stimg.co/uptown-minneapolis-restaurant-libertine-closed.jpg?w=800pg" width="250" height="168" title="Restaurant">
+<img src="https://cdn.cnn.com/cnnnext/dam/assets/190625170055-mirazur-dining-room-night-nicolas-lobbestael.jpg" width="250" height="168" title="Restaurant">
 
 ### What was used:
 
