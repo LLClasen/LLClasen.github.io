@@ -4,6 +4,16 @@ layout: default
 
 Welcome to Lara Clasen's data project portfolio.
 
+About Me:
+
+> Lara Clasen
+> Graduate Student at Bellevue University
+
+Contact Information:
+> lclasen@my365.bellevue.edu
+
+<br/>
+
 # Portfolio Projects
 ### Weather API Program
 This application interacts with a webservice in order to obtain data. The program prompts the user for their city or zip code and requests weather forecast data from openweathermap.org. The program displays the weather information in a readable format to the user.
