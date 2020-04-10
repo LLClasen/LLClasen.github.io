@@ -77,3 +77,19 @@ This is a compilation of materials for my first project in the course DSC 680 (A
 [Project Video Presentation](https://github.com/LLClasen/Credit-Card-Fraud/blob/master/DSC%20680%20Project%201%20Video%20Link.docx)<br/>
 
 ---
+
+# Final Project 2/3
+## Restaurant Recommender System
+<img src="https://stmedia.stimg.co/uptown-minneapolis-restaurant-libertine-closed.jpg?w=800pg" width="250" height="168" title="Restaurant">
+
+### What was used:
+
+- a
+- b
+
+Project description
+
+
+[Project Proposal](https://github.com/LLClasen/Restaurant-Recommendation)<br/>
+
+
