@@ -4,13 +4,13 @@ layout: default
 
 About Me:
 
-> Lara Clasen
-> Graduate Student at Bellevue University
+> Lara Clasen<br/>
+> Graduate student at Bellevue University, expected graduation date of May 30, 2020<br/>
+> 2 years of data science experience
 
 Contact Information:
 > lclasen@my365.bellevue.edu
 
-<br/>
 
 # Portfolio Projects
 ### Weather API Program
