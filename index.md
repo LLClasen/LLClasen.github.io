@@ -19,14 +19,14 @@ This application interacts with a webservice in order to obtain data. The progra
 [Weather API Project](https://github.com/LLClasen/WeatherAPI)<br/>
 <img src="https://openweathermap.org/themes/openweathermap/assets/img/new-history-forecast-bulk.png" width="250" height="168" title="Weather">
 
-### CDC Project
+### Average Life Expectancy Project
 This project is an analysis of Center for Disease Control data about Death rates and life expectancy at birth.
 
 [CDC Project](https://github.com/LLClasen/CDC-Project)<br/>
 <img src="https://files.hiv.gov/s3fs-public/cdc-logo-fullframe-internal.jpg" width="250" height="168" title="CDC">
 
 
-### IMDB Project
+### Movie Data Project
 This is a script to obtain data points for movies in HTML format from the IMDB website.
 
 [IMDB Project](https://github.com/LLClasen/IMDB-Project)<br/>
