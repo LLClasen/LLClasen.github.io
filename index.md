@@ -87,17 +87,24 @@ This is a compilation of materials for my first project in the course DSC 680 (A
 ---
 
 # Final Project 2/3
-## Restaurant Recommender System
-<img src="https://cdn.cnn.com/cnnnext/dam/assets/190625170055-mirazur-dining-room-night-nicolas-lobbestael.jpg" width="250" height="168" title="Restaurant">
+## Movie Recommender System
+<img src="https://www.vippng.com/png/detail/246-2465477_film-reels-png-transparent-movie-reel-png.png" width="250" height="168" title="Movie Reel">
 
 ### What was used:
 
-- a
-- b
-
-Project description
+- R Programming Language
+- Various packages: recommenderlab; ggplot2; data.table; reshape2
 
 
-[Project Proposal](https://github.com/LLClasen/Restaurant-Recommendation)<br/>
+In this project I build a recommendation system to predict a user’s preference in movie choice most effectively. I use MovieLens metadata to create a recommender that can work off of user behavior and movie characteristics to produce suggestions relevant to the user. The data set for Project 2 comes from the Grouplens organization which pulled data stemming from the movie recommendation system MovieLens.
+
+
+[Project Proposal](https://github.com/LLClasen/Movie-Recommender-System/blob/master/DSC%20680%20Project%202%20Proposal%20-%20New.docx)<br/>
+
+[Project Paper](https://github.com/LLClasen/Movie-Recommender-System/blob/master/DSC%20680%20Project%202%20Paper.docx)<br/>
+
+[Project Code](https://github.com/LLClasen/Movie-Recommender-System/blob/master/Movie%20Recommender%20Project%20Code)<br/>
+
+[Project Video Presentation](https://github.com/LLClasen/Movie-Recommender-System/blob/master/DSC%20680%20Project%202%20Video%20Link.docx)<br/>
 
 
