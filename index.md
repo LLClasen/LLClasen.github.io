@@ -111,7 +111,7 @@ In this project I build a recommendation system to predict a user’s preference
 
 # Final Project 3/3
 ## Uber
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/83/ec/75/83ec75bf-aa12-513e-17e8-0d2efe6a8a3b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" width="250" height="168" title="Uber">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/83/ec/75/83ec75bf-aa12-513e-17e8-0d2efe6a8a3b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" width="320" height="168" title="Uber">
 
 ### What was used:
 
