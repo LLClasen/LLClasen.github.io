@@ -1,5 +1,11 @@
-layout: page
-title: "About Me"
-permalink: /LLClasen.github.io/AboutMe/
+---
+layout: default
+title: Another page
+description: This is just another page
+---
 
-About me content.
+## Welcome to another page
+
+_yay_
+
+[back](./)
