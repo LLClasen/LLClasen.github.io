@@ -9,7 +9,9 @@ About Me:
 > - 2 years of data science experience
 
 Contact Information:
-> lclasen@my365.bellevue.edu
+> - Location: Minneapolis, MN<br/>
+> - <a href = "mailto: lclasen@my365.bellevue.edu">Email</a><br/>
+> - [LinkedIn](https://www.linkedin.com/in/laraclasen/)<br/>
 
 
 # Portfolio Projects
