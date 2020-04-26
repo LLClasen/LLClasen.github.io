@@ -133,7 +133,7 @@ Customer segmentation is a useful mechanism for businesses to have at their fing
 
 [Project Code](https://github.com/LLClasen/Customer-Segmentation/blob/master/Customer%20Segmentation%20Project%20Code.R)<br/>
 
-[Project Video Presentation](link here)<br/>
+[Project Video Presentation](https://vimeo.com/411916387)<br/>
 
 
 
