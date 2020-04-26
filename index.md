@@ -114,6 +114,7 @@ In this project I build a recommendation system to predict a user’s preference
 ---
 
 # Final Project 3/3
+[Project Repository](https://github.com/LLClasen/Customer-Segmentation)<br/>
 ## Customer Segmentation
 <img src="https://cdn.liveagent.com/app/uploads/2019/11/Segmentation-2.png" width="320" height="168" title="Segmentation">
 
@@ -126,11 +127,11 @@ In this project I build a recommendation system to predict a user’s preference
 Customer segmentation is a useful mechanism for businesses to have at their fingertips. Companies can utilize such methods to target their consumers based on spending behaviors, gender, age, and many more characteristics. The goal is to find your “best” customer, depending upon what the situation may be. Using this targeted information to create adapted marketing efforts, they increase their chances of appealing to that grouping of customers. This project uses a K-means algorithm to cluster shopping mall customer data appropriately.
 
 
-[Project Proposal](link here)<br/>
+[Project Proposal](https://github.com/LLClasen/Customer-Segmentation/blob/master/Customer%20Segmentation%20Project%20Proposal.docx)<br/>
 
 [Project Paper](link here)<br/>
 
-[Project Code](link here)<br/>
+[Project Code](https://github.com/LLClasen/Customer-Segmentation/blob/master/Customer%20Segmentation%20Project%20Code.R)<br/>
 
 [Project Video Presentation](link here)<br/>
 
