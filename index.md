@@ -114,16 +114,16 @@ In this project I build a recommendation system to predict a user’s preference
 ---
 
 # Final Project 3/3
-## Uber
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/83/ec/75/83ec75bf-aa12-513e-17e8-0d2efe6a8a3b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" width="320" height="168" title="Uber">
+## Customer Segmentation
+<img src="https://cdn.liveagent.com/app/uploads/2019/11/Segmentation-2.png" width="320" height="168" title="Segmentation">
 
 ### What was used:
 
-- b
-- b
+- R Programming Language
+- Various packages: plotrix; ggplot2; purrr; cluster; gridExtra; NbClust
 
 
-Project description.
+Customer segmentation is a useful mechanism for businesses to have at their fingertips. Companies can utilize such methods to target their consumers based on spending behaviors, gender, age, and many more characteristics. The goal is to find your “best” customer, depending upon what the situation may be. Using this targeted information to create adapted marketing efforts, they increase their chances of appealing to that grouping of customers. This project uses a K-means algorithm to cluster shopping mall customer data appropriately.
 
 
 [Project Proposal](link here)<br/>
